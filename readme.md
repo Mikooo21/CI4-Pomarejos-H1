@@ -19,7 +19,7 @@ It would be the start of our journey learning Websystem Technolgies how its used
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?Mikooo21/CI4-Pomarejos-H1)
+![](https://visit-counter.vercel.app/counter.png?page=Mikooo21/CI4-Pomarejos-H1)
 
 <!-- ! Make sure it was similar to your github -->
 
